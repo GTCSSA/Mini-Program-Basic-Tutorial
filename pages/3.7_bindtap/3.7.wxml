@@ -1,3 +1,0 @@
-<view bindtap="myTap" data-title="微信小程序" data-id="123" data-name="CSSA">点我</view>
-<view>{{name}}</view>
-

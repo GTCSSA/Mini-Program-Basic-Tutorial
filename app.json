@@ -1,13 +1,5 @@
 {
   "pages":[
-    "pages/4.4_API_WangLuo/4.4",
-    "pages/4.2_API_LuYou/4.2",
-    "pages/4.1_API/4.1",
-    "pages/3.7_bindtap/3.7",
-    "pages/3.6_life_cycle/3.6",
-    "pages/3.5_wxml_for/3.5",
-    "pages/3.4_wxml_if/3.4",
-    "pages/3.3_ShuJuBangDing/3.3",
     "pages/index/index",
     "pages/logs/logs"
   ],

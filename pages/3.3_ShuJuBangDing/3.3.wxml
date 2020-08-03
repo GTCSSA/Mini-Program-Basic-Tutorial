@@ -1,6 +1,0 @@
-<view>{{title}}</view>
-<view>部门列表1: {{listArr[0]}} {{listArr[1]}} {{listArr[2]}}</view>
-<view>部门列表2: {{listArr}}</view>
-<view>部门名称: {{obj.name}}</view>
-<view>部门人数上限: {{obj.maxMember}}</view>
-<view>部门是否满员: {{obj.full}}</view>
