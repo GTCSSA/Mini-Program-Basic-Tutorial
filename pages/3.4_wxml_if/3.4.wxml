@@ -1,0 +1,16 @@
+<view>wx:if的用法</view>
+<view wx:if="{{grade >= 90}}">评分：A</view>
+<view wx:elif="{{grade >= 80}}">评分：B</view>
+<view wx:elif="{{grade >= 70}}">评分：C</view>
+<view wx:elif="{{grade >= 60}}">评分：D</view>
+<view wx:else>评分：F</view>
+
+<text>\n block的用法</text>
+<text>\n 可以定义一堆东西 有点像java里的大括号</text>
+<block wx:if="{{grade >= 90}}">
+  <view>Congratulations</view>
+  <view>这是很长一段话</view>
+  <view>这是更长的一段话</view>
+  <view>这是特别复杂的一堆wxml</view>
+</block>
+

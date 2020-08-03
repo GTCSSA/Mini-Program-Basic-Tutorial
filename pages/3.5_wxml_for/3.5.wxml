@@ -1,0 +1,5 @@
+<view wx:for="{{5}}" wx:key="*this">{{index}}: 这是一个for loop</view>
+
+<!--item和index名字可以自定义-->
+<view wx:for="{{department}}" wx:for-index="i" wx:for-item="name" wx:key="*this">{{i}}: {{name}}</view>
+

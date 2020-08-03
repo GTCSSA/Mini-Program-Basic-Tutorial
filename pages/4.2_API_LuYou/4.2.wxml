@@ -1,0 +1,6 @@
+<navigator url="../4.1_API/4.1" open-type="redirect" style="width:200rpx; height:200rpx;">
+点我去4.1
+</navigator>
+
+<button type="primary" bindtap="clickBtn">点我去4.1</button>
+
